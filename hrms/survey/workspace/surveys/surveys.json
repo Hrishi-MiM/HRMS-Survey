@@ -1,0 +1,75 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"_YVbFEhtJR\",\"type\":\"header\",\"data\":{\"text\":\"<span style=\\\"font-size: 18px;\\\">Your Shortcuts</span>\",\"col\":12}},{\"id\":\"e1fYVoydwj\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Survey\",\"col\":3}},{\"id\":\"9YyVZgZ7fL\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Responses\",\"col\":3}},{\"id\":\"k_jS0ELMh9\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"SsmIEwlLoP\",\"type\":\"card\",\"data\":{\"card_name\":\"Surverys\",\"col\":4}}]",
+ "creation": "2024-08-02 14:56:56.529877",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "share",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Surveys",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Surverys",
+   "link_count": 2,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Survey",
+   "link_count": 0,
+   "link_to": "Survey",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Responses",
+   "link_count": 0,
+   "link_to": "Survey Response",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-08-02 15:20:10.498301",
+ "modified_by": "Administrator",
+ "module": "Survey",
+ "name": "Surveys",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 20.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Survey",
+   "link_to": "Survey",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Green",
+   "doc_view": "List",
+   "label": "Responses",
+   "link_to": "Survey Response",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Surveys"
+}
